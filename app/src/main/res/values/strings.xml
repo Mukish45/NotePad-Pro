@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NotePad Pro</string>
+    <string name="todo">NotePad Pro</string>
+    <string name="todo2">Loading Animation</string>
+    <string name="welcome">Welcome to NotePad Pro!</string>
+    <string name="dashboard">First Page Layout</string>
+    <string name="todo3">TODO</string>
+    <string name="login">Login</string>
+    <string name="username">User name(Email ID)</string>
+    <string name="password">Password</string>
+    <string name="logindetails">Login</string>
+    <string name="newtask">Add new Task</string>
+    <string name="notes">Notes</string>
+    <string name="enter">Enter</string>
+    <string name="Note">Notes</string>
+    <string name="ResetPassword">Forgot Password?</string>
+    <string name="CreateAccount">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email ID</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029632878989",
+    "firebase_url": "https://notepad-pro-3628-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notepad-pro-3628",
+    "storage_bucket": "notepad-pro-3628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029632878989:android:541288e35fbbad5784f5c4",
+        "android_client_info": {
+          "package_name": "com.example.notepadpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029632878989-64vqmrp7fdm9ko90m6nj0t1d3qa6rqsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKHky1DTS6dxz4iQN4IMsU-OXr_5wByI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029632878989-64vqmrp7fdm9ko90m6nj0t1d3qa6rqsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
